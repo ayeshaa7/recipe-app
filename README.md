@@ -11,3 +11,4 @@ A recipe app built with React, Javascript, Spoonacular API, Styled-Components,
 
 <img width="1280" alt="Screen Shot 2023-02-14 at 10 19 35 PM" src="https://user-images.githubusercontent.com/87906936/218829527-76dbff23-80f0-4b81-bf4e-8d25eb32505a.png">
 
+<img width="1280" alt="Screen Shot 2023-02-14 at 10 17 40 PM" src="https://user-images.githubusercontent.com/87906936/218851616-17983a97-4b42-4b8b-a5f2-3b2e435c179e.png">
