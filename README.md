@@ -6,6 +6,9 @@ A recipe app built with React, Javascript, Spoonacular API, Styled-Components,
 
 <img width="1280" alt="Screen Shot 2023-02-14 at 10 35 39 PM" src="https://user-images.githubusercontent.com/87906936/218828983-39fce201-78fc-4f11-a89e-044f8bf681d3.png">
 
+<img width="1280" alt="Screen Shot 2023-02-14 at 10 17 40 PM" src="https://user-images.githubusercontent.com/87906936/218854017-2e655a43-fd6a-4b03-a3c0-f81491f5c355.png">
+
+
 <img width="1280" alt="Screen Shot 2023-02-14 at 10 18 46 PM" src="https://user-images.githubusercontent.com/87906936/218852564-fdfad6f6-0b41-4697-a800-82fcd0eab1c5.png">
 
  
@@ -23,6 +26,6 @@ A recipe app built with React, Javascript, Spoonacular API, Styled-Components,
 <img width="1280" alt="Screen Shot 2023-02-14 at 10 17 17 PM" src="https://user-images.githubusercontent.com/87906936/218852005-d075d079-1ba2-4bdf-a0e2-b464104b7b58.png">
 
 <img width="1280" alt="Screen Shot 2023-02-14 at 10 03 11 PM" src="https://user-images.githubusercontent.com/87906936/218852079-229d331e-b627-489c-b49b-7fb3f32d6516.png">
-<img width="1280" alt="Screen Shot 2023-02-14 at 10 17 40 PM" src="https://user-images.githubusercontent.com/87906936/218853271-e41ae53f-d616-4649-ab89-a6553d90ef08.png">
+
 
 
