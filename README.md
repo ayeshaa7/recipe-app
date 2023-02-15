@@ -6,18 +6,18 @@ A recipe app built with React, Javascript, Spoonacular API, Styled-Components,
 
 <img width="1280" alt="Screen Shot 2023-02-14 at 10 35 39 PM" src="https://user-images.githubusercontent.com/87906936/218828983-39fce201-78fc-4f11-a89e-044f8bf681d3.png">
 
-<img width="1280" alt="Screen Shot 2023-02-14 at 10 17 40 PM" src="https://user-images.githubusercontent.com/87906936/218854017-2e655a43-fd6a-4b03-a3c0-f81491f5c355.png">
+<img width="1280" alt="Screen Shot 2023-02-15 at 4 12 10 PM" src="https://user-images.githubusercontent.com/87906936/219006459-f850ee96-f3b6-40de-83a7-375a5aac0268.png">
 
 
 <img width="1280" alt="Screen Shot 2023-02-14 at 10 18 46 PM" src="https://user-images.githubusercontent.com/87906936/218852564-fdfad6f6-0b41-4697-a800-82fcd0eab1c5.png">
 
  
-<img width="1280" alt="Screen Shot 2023-02-14 at 10 17 56 PM" src="https://user-images.githubusercontent.com/87906936/218829107-d8b6ae4b-d73b-41d8-837d-72fd9279fbce.png">
-
-<img width="1280" alt="Screen Shot 2023-02-14 at 10 17 52 PM" src="https://user-images.githubusercontent.com/87906936/218853207-f131334b-1bac-46ef-8f9b-41187989530b.png">
+<img width="1280" alt="Screen Shot 2023-02-15 at 4 13 51 PM" src="https://user-images.githubusercontent.com/87906936/219006845-b181e5e5-a604-46cc-8563-e420bb056041.png">
 
 
-<img width="1280" alt="Screen Shot 2023-02-14 at 10 19 35 PM" src="https://user-images.githubusercontent.com/87906936/218829527-76dbff23-80f0-4b81-bf4e-8d25eb32505a.png">
+<img width="1280" alt="Screen Shot 2023-02-15 at 4 13 56 PM" src="https://user-images.githubusercontent.com/87906936/219006890-1bb2861c-48ee-4bbb-a2fd-f916380a838f.png">
+
+
 
 <img width="1280" alt="Screen Shot 2023-02-14 at 10 17 00 PM" src="https://user-images.githubusercontent.com/87906936/218851917-5b49ada5-bb08-4a14-9801-f36288b90517.png">
 
