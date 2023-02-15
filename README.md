@@ -8,9 +8,6 @@ A recipe app built with React, Javascript, Spoonacular API, Styled-Components,
 
 <img width="1280" alt="Screen Shot 2023-02-15 at 4 12 10 PM" src="https://user-images.githubusercontent.com/87906936/219006459-f850ee96-f3b6-40de-83a7-375a5aac0268.png">
 
-
-<img width="1280" alt="Screen Shot 2023-02-14 at 10 18 46 PM" src="https://user-images.githubusercontent.com/87906936/218852564-fdfad6f6-0b41-4697-a800-82fcd0eab1c5.png">
-
  
 <img width="1280" alt="Screen Shot 2023-02-15 at 4 13 51 PM" src="https://user-images.githubusercontent.com/87906936/219006845-b181e5e5-a604-46cc-8563-e420bb056041.png">
 
